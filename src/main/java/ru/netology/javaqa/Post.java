@@ -9,7 +9,4 @@ public class Post {
     public String surname;
     public boolean subscription;
     public FormDate birthday;
-    public int day;
-    public int month;
-    public int year;
 }
